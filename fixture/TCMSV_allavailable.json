@@ -1,0 +1,3433 @@
+{
+  "data" : {
+    "UPDATETIME" : "Mon May 17 16:44:00 CST 2021",
+    "park" : [ {
+      "id" : "001",
+      "availablecar" : 295,
+      "availablemotor" : 218,
+      "availablebus" : -9
+    }, {
+      "id" : "002",
+      "availablecar" : 234,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "003",
+      "availablecar" : 19,
+      "availablemotor" : 89,
+      "availablebus" : 0,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "176",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "177",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "004",
+      "availablecar" : 28,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "090",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "091",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "092",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "093",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "094",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "095",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "005",
+      "availablecar" : 48,
+      "availablemotor" : 33,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "115",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "116",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "117",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "059",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "060",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "006",
+      "availablecar" : 0,
+      "availablemotor" : 96,
+      "availablebus" : -9
+    }, {
+      "id" : "007",
+      "availablecar" : 82,
+      "availablemotor" : 116,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "102",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "103",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "104",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "105",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "038",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "039",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "008",
+      "availablecar" : 65,
+      "availablemotor" : 12,
+      "availablebus" : -9
+    }, {
+      "id" : "014",
+      "availablecar" : 119,
+      "availablemotor" : 1,
+      "availablebus" : 0,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "083",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "083-1",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "146",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "146-1",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "015",
+      "availablecar" : 383,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "016",
+      "availablecar" : 143,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "018",
+      "availablecar" : 732,
+      "availablemotor" : 133,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "017",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "018",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "086",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "087",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "016",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "019",
+      "availablecar" : 39,
+      "availablemotor" : 0,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "007",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "008",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "020",
+      "availablecar" : 116,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "033",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "034",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "021",
+      "availablecar" : 111,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "049",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "050",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "051",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "052",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "022",
+      "availablecar" : 79,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "010",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "009",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "023",
+      "availablecar" : 95,
+      "availablemotor" : 0,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "037",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "075",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "221",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "222",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "024",
+      "availablecar" : 52,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "005",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "006",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "025",
+      "availablecar" : 91,
+      "availablemotor" : 0,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "028",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "029",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "027",
+      "availablecar" : 170,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "011",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "012",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "013",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "014",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "015",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "016",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "017",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "018",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "019",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "020",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "021",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "144",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "145",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "204",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "205",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "028",
+      "availablecar" : 48,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "025",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "026",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "029",
+      "availablecar" : 86,
+      "availablemotor" : 35,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "020",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "021",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "030",
+      "availablecar" : 40,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "087",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "088",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "031",
+      "availablecar" : 15,
+      "availablemotor" : 0,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "040",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "039",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "032",
+      "availablecar" : 70,
+      "availablemotor" : 0,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "029",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "037",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "033",
+      "availablecar" : 62,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "034",
+      "availablecar" : 27,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "035",
+      "availablecar" : 62,
+      "availablemotor" : 0,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "029",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "030",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "036",
+      "availablecar" : 49,
+      "availablemotor" : 0,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "064",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "065",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "037",
+      "availablecar" : 107,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "261",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "262",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "263",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "264",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "038",
+      "availablecar" : 8,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "039",
+      "availablecar" : 74,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "040",
+      "availablecar" : 54,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "101",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "100",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "041",
+      "availablecar" : 68,
+      "availablemotor" : 45,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "003",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "004",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "042",
+      "availablecar" : 125,
+      "availablemotor" : 50,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "003",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "002",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "043",
+      "availablecar" : 144,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "001",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "002",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "003",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "004",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "044",
+      "availablecar" : 80,
+      "availablemotor" : 38,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "003",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "004",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "046",
+      "availablecar" : 107,
+      "availablemotor" : 168,
+      "availablebus" : -9
+    }, {
+      "id" : "048",
+      "availablecar" : 237,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "081",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "082",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "049",
+      "availablecar" : 55,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "050",
+      "availablecar" : 556,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "051",
+      "availablecar" : 32,
+      "availablemotor" : 45,
+      "availablebus" : -9
+    }, {
+      "id" : "052",
+      "availablecar" : 23,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "053",
+      "availablecar" : 190,
+      "availablemotor" : 0,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "241",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "242",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "243",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "244",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "054",
+      "availablecar" : 43,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "055",
+      "availablecar" : 13,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "047",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "048",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "086",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "087",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "088",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "089",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "090",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "091",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "056",
+      "availablecar" : 338,
+      "availablemotor" : 146,
+      "availablebus" : 0,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "B1-537",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "B1-538",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "B1-539",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "B1-540",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "B1-541",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "057",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "153",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "154",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "155",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "156",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "182",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "133",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "151",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "152",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "058",
+      "availablecar" : 42,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "133",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "151",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "152",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "153",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "154",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "155",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "156",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "182",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "059",
+      "availablecar" : 510,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "061",
+      "availablecar" : 194,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "066",
+      "availablecar" : 65,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "067",
+      "availablecar" : 63,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "018",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "054",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "068",
+      "availablecar" : 84,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "001",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "002",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "003",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "004",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "069",
+      "availablecar" : 86,
+      "availablemotor" : 35,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "038",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "039",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "070",
+      "availablecar" : 71,
+      "availablemotor" : 11,
+      "availablebus" : -9
+    }, {
+      "id" : "071",
+      "availablecar" : 38,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "113",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "114",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "115",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "116",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "117",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "072",
+      "availablecar" : 66,
+      "availablemotor" : 33,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "004",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "005",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "073",
+      "availablecar" : 424,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "074",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "075",
+      "availablecar" : 37,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "076",
+      "availablecar" : 111,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "077",
+      "availablecar" : 32,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "078",
+      "availablecar" : 165,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "204",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "205",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "079",
+      "availablecar" : 70,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "080",
+      "availablecar" : 59,
+      "availablemotor" : 29,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "B1-127",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "B1-128",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "B1-129",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "B1-130",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "081",
+      "availablecar" : 36,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "082",
+      "availablecar" : 38,
+      "availablemotor" : 3,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "040",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "041",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "084",
+      "availablecar" : 39,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "085",
+      "availablecar" : 94,
+      "availablemotor" : 88,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "255",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "252",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "253",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "254",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "256",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "257",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "086",
+      "availablecar" : 29,
+      "availablemotor" : 44,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "201",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "202",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "203",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "204",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "205",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "206",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "087",
+      "availablecar" : 46,
+      "availablemotor" : 220,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "036",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "035",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "088",
+      "availablecar" : 37,
+      "availablemotor" : 240,
+      "availablebus" : -9
+    }, {
+      "id" : "089",
+      "availablecar" : 26,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "114",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "116",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "117",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "101",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "102",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "103",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "104",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "105",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "090",
+      "availablecar" : 61,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "177",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "178",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "179",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "180",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "181",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "182",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "091",
+      "availablecar" : 255,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "092",
+      "availablecar" : 70,
+      "availablemotor" : 112,
+      "availablebus" : -9
+    }, {
+      "id" : "093",
+      "availablecar" : 55,
+      "availablemotor" : 31,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "037",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "038",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "094",
+      "availablecar" : 39,
+      "availablemotor" : 73,
+      "availablebus" : -9
+    }, {
+      "id" : "095",
+      "availablecar" : 41,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "096",
+      "availablecar" : 28,
+      "availablemotor" : 106,
+      "availablebus" : -9
+    }, {
+      "id" : "097",
+      "availablecar" : 26,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "028",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "029",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "098",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "099",
+      "availablecar" : 34,
+      "availablemotor" : 11,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "018",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "019",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "100",
+      "availablecar" : 12,
+      "availablemotor" : 12,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "014",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "015",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "016",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "017",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "012",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "013",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "101",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "102",
+      "availablecar" : 83,
+      "availablemotor" : 25,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "003",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "004",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "103",
+      "availablecar" : 200,
+      "availablemotor" : 13,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "002",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "003",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "005",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "006",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "069",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "103",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "106",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "004",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "105",
+      "availablecar" : 50,
+      "availablemotor" : 5,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "264",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "265",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "106",
+      "availablecar" : 55,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "107",
+      "availablecar" : 46,
+      "availablemotor" : 8,
+      "availablebus" : 0,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "124",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "125",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "109",
+      "availablecar" : 112,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "110",
+      "availablecar" : 26,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "111",
+      "availablecar" : 53,
+      "availablemotor" : 0,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "038",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "039",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "112",
+      "availablecar" : 0,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "113",
+      "availablecar" : 78,
+      "availablemotor" : 43,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "044",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "045",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "114",
+      "availablecar" : 83,
+      "availablemotor" : 20,
+      "availablebus" : 0,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "009",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "010",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "115",
+      "availablecar" : 844,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "116",
+      "availablecar" : 0,
+      "availablemotor" : 5,
+      "availablebus" : -9
+    }, {
+      "id" : "119",
+      "availablecar" : 47,
+      "availablemotor" : 34,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "021",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "022",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "120",
+      "availablecar" : 221,
+      "availablemotor" : 69,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "018",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "020",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "076",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "077",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "079",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "124",
+      "availablecar" : 91,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "126",
+      "availablecar" : 38,
+      "availablemotor" : 319,
+      "availablebus" : -9
+    }, {
+      "id" : "127",
+      "availablecar" : 53,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "128",
+      "availablecar" : 56,
+      "availablemotor" : 103,
+      "availablebus" : 0,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "085",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "086",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "129",
+      "availablecar" : 4,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "082",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "081",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "131",
+      "availablecar" : 21,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "132",
+      "availablecar" : 1,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "133",
+      "availablecar" : 1,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "134",
+      "availablecar" : 13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "136",
+      "availablecar" : 25,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "138",
+      "availablecar" : 61,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "139",
+      "availablecar" : 5,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "140",
+      "availablecar" : 0,
+      "availablemotor" : 90,
+      "availablebus" : -9
+    }, {
+      "id" : "141",
+      "availablecar" : 0,
+      "availablemotor" : 203,
+      "availablebus" : -9
+    }, {
+      "id" : "161",
+      "availablecar" : 38,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "165",
+      "availablecar" : 104,
+      "availablemotor" : 20,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "250",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "251",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "252",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "253",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "173",
+      "availablecar" : 91,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "174",
+      "availablecar" : 0,
+      "availablemotor" : 123,
+      "availablebus" : -9
+    }, {
+      "id" : "176",
+      "availablecar" : 79,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "177",
+      "availablecar" : 129,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "181",
+      "availablecar" : 67,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "182",
+      "availablecar" : 210,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "183",
+      "availablecar" : 210,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "184",
+      "availablecar" : 386,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "187",
+      "availablecar" : 39,
+      "availablemotor" : 81,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "001",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "002",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "188",
+      "availablecar" : 257,
+      "availablemotor" : 0,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "B1-6",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "B1-7",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "B1-8",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "B1-9",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "193",
+      "availablecar" : 125,
+      "availablemotor" : 18,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "013",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "014",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "194",
+      "availablecar" : 487,
+      "availablemotor" : 1012,
+      "availablebus" : -9
+    }, {
+      "id" : "195",
+      "availablecar" : 25,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "196",
+      "availablecar" : 0,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "199",
+      "availablecar" : 9,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "201",
+      "availablecar" : 51,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "202",
+      "availablecar" : 45,
+      "availablemotor" : 85,
+      "availablebus" : -9
+    }, {
+      "id" : "203",
+      "availablecar" : 161,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "204",
+      "availablecar" : 164,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "205",
+      "availablecar" : 25,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "206",
+      "availablecar" : 65,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "207",
+      "availablecar" : 182,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "210",
+      "availablecar" : 131,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "212",
+      "availablecar" : 2,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "213",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "214",
+      "availablecar" : 256,
+      "availablemotor" : 566,
+      "availablebus" : -9
+    }, {
+      "id" : "215",
+      "availablecar" : 32,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "217",
+      "availablecar" : 515,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "219",
+      "availablecar" : 131,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "220",
+      "availablecar" : 22,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "222",
+      "availablecar" : 3,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "223",
+      "availablecar" : 10,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "224",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "229",
+      "availablecar" : 16,
+      "availablemotor" : 0,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "022",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "023",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "232",
+      "availablecar" : 12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "233",
+      "availablecar" : 57,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "234",
+      "availablecar" : 195,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "235",
+      "availablecar" : 26,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "236",
+      "availablecar" : 10,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "237",
+      "availablecar" : 8,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "238",
+      "availablecar" : 15,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "239",
+      "availablecar" : 5,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "240",
+      "availablecar" : 12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "241",
+      "availablecar" : 1,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "242",
+      "availablecar" : 7,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "243",
+      "availablecar" : 6,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "244",
+      "availablecar" : 63,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "245",
+      "availablecar" : 18,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "246",
+      "availablecar" : 28,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "247",
+      "availablecar" : 62,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "249",
+      "availablecar" : 33,
+      "availablemotor" : 50,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "003",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "044",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "250",
+      "availablecar" : 12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "251",
+      "availablecar" : 15,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "255",
+      "availablecar" : 397,
+      "availablemotor" : 355,
+      "availablebus" : -9
+    }, {
+      "id" : "256",
+      "availablecar" : 82,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "257",
+      "availablecar" : 11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "258",
+      "availablecar" : 17,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "259",
+      "availablecar" : 19,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "260",
+      "availablecar" : 232,
+      "availablemotor" : 482,
+      "availablebus" : -9
+    }, {
+      "id" : "261",
+      "availablecar" : 72,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "264",
+      "availablecar" : 24,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "266",
+      "availablecar" : 21,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "267",
+      "availablecar" : 26,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "268",
+      "availablecar" : 14,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "269",
+      "availablecar" : 1,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "271",
+      "availablecar" : 19,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "272",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "283",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "297",
+      "availablecar" : 14,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "298",
+      "availablecar" : 23,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "299",
+      "availablecar" : 259,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "300",
+      "availablecar" : 12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "301",
+      "availablecar" : 611,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "308",
+      "availablecar" : 81,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "309",
+      "availablecar" : 20,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "310",
+      "availablecar" : 2,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "311",
+      "availablecar" : 0,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "312",
+      "availablecar" : 8,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "313",
+      "availablecar" : 4,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "314",
+      "availablecar" : 13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "317",
+      "availablecar" : 54,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "318",
+      "availablecar" : 30,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "320",
+      "availablecar" : 7,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "321",
+      "availablecar" : 11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "322",
+      "availablecar" : 3,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "324",
+      "availablecar" : 10,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "326",
+      "availablecar" : 23,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "327",
+      "availablecar" : 7,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "328",
+      "availablecar" : 18,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "331",
+      "availablecar" : 11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "333",
+      "availablecar" : 3,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "334",
+      "availablecar" : 40,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "335",
+      "availablecar" : 19,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "338",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "339",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "340",
+      "availablecar" : 224,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "341",
+      "availablecar" : 41,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "342",
+      "availablecar" : 123,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "343",
+      "availablecar" : 107,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "345",
+      "availablecar" : 167,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "353",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "354",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "355",
+      "availablecar" : 18,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "356",
+      "availablecar" : 1,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "357",
+      "availablecar" : 9,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "358",
+      "availablecar" : 51,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "359",
+      "availablecar" : 32,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "360",
+      "availablecar" : 18,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "361",
+      "availablecar" : 0,
+      "availablemotor" : 1680,
+      "availablebus" : -9
+    }, {
+      "id" : "365",
+      "availablecar" : 209,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "371",
+      "availablecar" : 0,
+      "availablemotor" : 553,
+      "availablebus" : -9
+    }, {
+      "id" : "372",
+      "availablecar" : 141,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "373",
+      "availablecar" : 141,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "374",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "017",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "375",
+      "availablecar" : 85,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "376",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "377",
+      "availablecar" : 361,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "378",
+      "availablecar" : 303,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "379",
+      "availablecar" : 38,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "380",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "381",
+      "availablecar" : 1214,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "382",
+      "availablecar" : 66,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "383",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "384",
+      "availablecar" : 60,
+      "availablemotor" : 60,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "091",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "092",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "051",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "052",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "053",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "089",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "090",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "385",
+      "availablecar" : 21,
+      "availablemotor" : 24,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "046",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "047",
+          "spot_status" : "待機中"
+        } ]
+      }
+    }, {
+      "id" : "386",
+      "availablecar" : 172,
+      "availablemotor" : 2304,
+      "availablebus" : -9
+    }, {
+      "id" : "387",
+      "availablecar" : 205,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "388",
+      "availablecar" : 17,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "389",
+      "availablecar" : 27,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "391",
+      "availablecar" : 9,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "392",
+      "availablecar" : 116,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "393",
+      "availablecar" : 24,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "394",
+      "availablecar" : 34,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "395",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "396",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "397",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "398",
+      "availablecar" : 55,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "400",
+      "availablecar" : 0,
+      "availablemotor" : 116,
+      "availablebus" : -9
+    }, {
+      "id" : "401",
+      "availablecar" : 0,
+      "availablemotor" : 138,
+      "availablebus" : -9
+    }, {
+      "id" : "402",
+      "availablecar" : 28,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "403",
+      "availablecar" : 33,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "404",
+      "availablecar" : 27,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "405",
+      "availablecar" : 205,
+      "availablemotor" : 143,
+      "availablebus" : -9
+    }, {
+      "id" : "406",
+      "availablecar" : 44,
+      "availablemotor" : 88,
+      "availablebus" : -9,
+      "ChargeStation" : {
+        "scoketStatusList" : [ {
+          "spot_abrv" : "150",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "151",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "152",
+          "spot_status" : "充電中"
+        }, {
+          "spot_abrv" : "153",
+          "spot_status" : "待機中"
+        }, {
+          "spot_abrv" : "154",
+          "spot_status" : "充電中"
+        } ]
+      }
+    }, {
+      "id" : "407",
+      "availablecar" : 21,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "408",
+      "availablecar" : 6,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "409",
+      "availablecar" : 61,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "410",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "412",
+      "availablecar" : 17,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "413",
+      "availablecar" : 36,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "414",
+      "availablecar" : 42,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "415",
+      "availablecar" : 23,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "416",
+      "availablecar" : 21,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "417",
+      "availablecar" : 47,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "418",
+      "availablecar" : 20,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "419",
+      "availablecar" : 32,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "420",
+      "availablecar" : 3,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "421",
+      "availablecar" : 250,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "422",
+      "availablecar" : 12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "423",
+      "availablecar" : 32,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "424",
+      "availablecar" : 23,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "425",
+      "availablecar" : 33,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "426",
+      "availablecar" : 14,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "427",
+      "availablecar" : 6,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "428",
+      "availablecar" : 81,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "429",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "430",
+      "availablecar" : 28,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "431",
+      "availablecar" : 42,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "432",
+      "availablecar" : 56,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "433",
+      "availablecar" : 92,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "434",
+      "availablecar" : 31,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "435",
+      "availablecar" : 20,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "436",
+      "availablecar" : 25,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "437",
+      "availablecar" : 41,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "438",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "439",
+      "availablecar" : 19,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "440",
+      "availablecar" : 0,
+      "availablemotor" : 100,
+      "availablebus" : 50
+    }, {
+      "id" : "441",
+      "availablecar" : 1,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "442",
+      "availablecar" : 32,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "443",
+      "availablecar" : 76,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "444",
+      "availablecar" : 17,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "445",
+      "availablecar" : 54,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "446",
+      "availablecar" : 8,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "447",
+      "availablecar" : 54,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "448",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "449",
+      "availablecar" : 38,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "450",
+      "availablecar" : 28,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "451",
+      "availablecar" : 19,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "452",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "453",
+      "availablecar" : 38,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "454",
+      "availablecar" : 184,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "455",
+      "availablecar" : 3,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "457",
+      "availablecar" : 7,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "458",
+      "availablecar" : 11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "459",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "460",
+      "availablecar" : 50,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "461",
+      "availablecar" : 0,
+      "availablemotor" : 306,
+      "availablebus" : -9
+    }, {
+      "id" : "462",
+      "availablecar" : 400,
+      "availablemotor" : 492,
+      "availablebus" : -9
+    }, {
+      "id" : "463",
+      "availablecar" : 2,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "464",
+      "availablecar" : 0,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "465",
+      "availablecar" : 15,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "466",
+      "availablecar" : 48,
+      "availablemotor" : 0,
+      "availablebus" : 0
+    }, {
+      "id" : "467",
+      "availablecar" : 16,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "468",
+      "availablecar" : 2,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "469",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "470",
+      "availablecar" : 6,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "471",
+      "availablecar" : 14,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "472",
+      "availablecar" : 399,
+      "availablemotor" : 360,
+      "availablebus" : -9
+    }, {
+      "id" : "473",
+      "availablecar" : 19,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "474",
+      "availablecar" : 4,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "475",
+      "availablecar" : 348,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "476",
+      "availablecar" : 29,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "477",
+      "availablecar" : 10,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "478",
+      "availablecar" : 1,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "479",
+      "availablecar" : 5,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "480",
+      "availablecar" : 42,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "481",
+      "availablecar" : 23,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "482",
+      "availablecar" : 30,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "483",
+      "availablecar" : 267,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "484",
+      "availablecar" : 42,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "485",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "486",
+      "availablecar" : 50,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "487",
+      "availablecar" : 259,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "488",
+      "availablecar" : 37,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "489",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "490",
+      "availablecar" : 4,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "491",
+      "availablecar" : 10,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "492",
+      "availablecar" : 4,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "493",
+      "availablecar" : 2,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "494",
+      "availablecar" : 2,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "495",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "496",
+      "availablecar" : 14,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "497",
+      "availablecar" : 8,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "498",
+      "availablecar" : 2,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "499",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "500",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "501",
+      "availablecar" : -12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "502",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "503",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "504",
+      "availablecar" : -12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "505",
+      "availablecar" : -12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "506",
+      "availablecar" : 13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "507",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "508",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "509",
+      "availablecar" : 109,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "510",
+      "availablecar" : 3,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "511",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "512",
+      "availablecar" : -12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "513",
+      "availablecar" : 5,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "514",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "515",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "516",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "517",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "518",
+      "availablecar" : 50,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "519",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "520",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "521",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "522",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "523",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "524",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "525",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "526",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "527",
+      "availablecar" : 5,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "528",
+      "availablecar" : -12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "529",
+      "availablecar" : 5,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "530",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "531",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "532",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "533",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "534",
+      "availablecar" : -12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "536",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "537",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "538",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "539",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "540",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "541",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "542",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "543",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "544",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "545",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "546",
+      "availablecar" : -12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "547",
+      "availablecar" : -12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "548",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "549",
+      "availablecar" : 391,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "550",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "551",
+      "availablecar" : -12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "552",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "553",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "554",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "555",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "556",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "557",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "558",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "559",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "560",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "561",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "562",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "563",
+      "availablecar" : -13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "564",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "565",
+      "availablecar" : -11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "566",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "567",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "568",
+      "availablecar" : 796,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "570",
+      "availablecar" : 416,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "571",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "572",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "573",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "574",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "575",
+      "availablecar" : 2,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "576",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "577",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "578",
+      "availablecar" : 17,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "579",
+      "availablecar" : 19,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "580",
+      "availablecar" : 25,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "582",
+      "availablecar" : 44,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "583",
+      "availablecar" : 193,
+      "availablemotor" : 575,
+      "availablebus" : -9
+    }, {
+      "id" : "584",
+      "availablecar" : 18,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "585",
+      "availablecar" : 305,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "586",
+      "availablecar" : 41,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "591",
+      "availablecar" : 61,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "592",
+      "availablecar" : 18,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "593",
+      "availablecar" : 543,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "594",
+      "availablecar" : 8,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "595",
+      "availablecar" : 108,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "596",
+      "availablecar" : 10,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "597",
+      "availablecar" : 11,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "598",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "599",
+      "availablecar" : 20,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "600",
+      "availablecar" : 12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "601",
+      "availablecar" : 1,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "602",
+      "availablecar" : 44,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "603",
+      "availablecar" : 13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "604",
+      "availablecar" : 20,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "605",
+      "availablecar" : 22,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "606",
+      "availablecar" : 23,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "607",
+      "availablecar" : 64,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "608",
+      "availablecar" : 352,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "609",
+      "availablecar" : 15,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "610",
+      "availablecar" : 38,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "611",
+      "availablecar" : 13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "612",
+      "availablecar" : 19,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "613",
+      "availablecar" : 35,
+      "availablemotor" : 114,
+      "availablebus" : -9
+    }, {
+      "id" : "614",
+      "availablecar" : 44,
+      "availablemotor" : 745,
+      "availablebus" : -9
+    }, {
+      "id" : "615",
+      "availablecar" : 5,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "617",
+      "availablecar" : 25,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "618",
+      "availablecar" : 43,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "619",
+      "availablecar" : 12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "620",
+      "availablecar" : 48,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "621",
+      "availablecar" : 15,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "622",
+      "availablecar" : 1,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "623",
+      "availablecar" : 7,
+      "availablemotor" : 0,
+      "availablebus" : -9
+    }, {
+      "id" : "624",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "625",
+      "availablecar" : 13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "626",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "627",
+      "availablecar" : 12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "628",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "629",
+      "availablecar" : 4,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "630",
+      "availablecar" : 13,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "631",
+      "availablecar" : 641,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "632",
+      "availablecar" : 202,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "633",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "634",
+      "availablecar" : 18,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "635",
+      "availablecar" : 28,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "636",
+      "availablecar" : 78,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "637",
+      "availablecar" : 26,
+      "availablemotor" : 99,
+      "availablebus" : -9
+    }, {
+      "id" : "638",
+      "availablecar" : 131,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "639",
+      "availablecar" : 444,
+      "availablemotor" : 210,
+      "availablebus" : -9
+    }, {
+      "id" : "640",
+      "availablecar" : 109,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "641",
+      "availablecar" : 26,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "642",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "643",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "644",
+      "availablecar" : 0,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "587",
+      "availablecar" : -12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "588",
+      "availablecar" : -12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    }, {
+      "id" : "589",
+      "availablecar" : -12,
+      "availablemotor" : -9,
+      "availablebus" : -9
+    } ]
+  }
+}
+

@@ -1,0 +1,25 @@
+#    docs.serverless.com
+
+service: scu-cloud-202105
+
+frameworkVersion: '2'
+
+provider:
+  name: aws
+  runtime: python3.8
+  lambdaHashingVersion: 20201221
+
+#  stage: dev
+  region: us-west-2
+
+  iamRoleStatements:
+    - Effect: "Allow"
+      Action: "cloudwatch:PutMetricData"
+      Resource: '*'
+
+
+functions:
+  crawl:
+    handler: handler.crawl
+    events:
+      - schedule: rate(10 minutes)
